@@ -1,0 +1,2 @@
+single-net-AtUnet-bone-efficientnetb5-pre-True-epoch-2400-batch-4-lr-0.0005-dim-800-train-1100-rot-0-set-cell_cycle_1984_v2-ext-True-loss-focal+dice-up-upsampling-filters-256-red_factor-1.0-pyr_agg-sum-bk-1.0-fl_weight-4.0-fv-None, 1335
+single-net-AtUnet-bone-efficientnetb5-pre-True-epoch-2400-batch-4-lr-0.0001-dim-800-train-1100-rot-0-set-cell_cycle_1984_v2-ext-True-loss-focal+dice-up-upsampling-filters-256-red_factor-1.0-pyr_agg-sum-bk-1.0-fl_weight-4.0-fv-None, 726
